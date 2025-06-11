@@ -1,1 +1,3 @@
 # agrinho2025
+
+  No meu trabalho irei fazer um jogo aonde o fazendeiro (jogador), ira plantar algumas verduras e alguns legumes e devera regalos até eles crescerem, o jogo tera um cronometro, se regalos e fazelos crescerem antes que o tempo acabe você ganha caso ao contrario, ira perder, o jogo será/é fácil de jogar e simples, com poucos comandos.O intuito do jogo será uma pequena representação de como é interesante ver sua orta/plantação crescer, e um pouco da preção que agricultores familiares tem para fazer a produção a tempo pra entregalas a feiras/mercados ou se caso for de algum agricultor que trabalha para alguma empresa, o quando eles tem que ter responsabilidade pra entregar seus ensaios para seus chefes.
